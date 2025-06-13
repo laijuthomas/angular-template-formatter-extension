@@ -16,7 +16,7 @@ npm install -g vsce
 
 ### 2. Build the Extension
 
-Inside the extension folder:
+Inside the extension folder, update the scriptPath in extension.ts based on the user directory and run below
 
 ```bash
 npm install
